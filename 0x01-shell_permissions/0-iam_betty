@@ -1,2 +1,2 @@
-#!/bin/bash
-su betty | cut -c -2  
+#!/bin/bash 
+su betty  
